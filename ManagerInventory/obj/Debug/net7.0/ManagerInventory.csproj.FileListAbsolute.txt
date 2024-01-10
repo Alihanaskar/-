@@ -1,0 +1,15 @@
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/bin/Debug/net7.0/ManagerInventory
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/bin/Debug/net7.0/ManagerInventory.deps.json
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/bin/Debug/net7.0/ManagerInventory.runtimeconfig.json
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/bin/Debug/net7.0/ManagerInventory.dll
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/bin/Debug/net7.0/ManagerInventory.pdb
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.csproj.AssemblyReference.cache
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.AssemblyInfoInputs.cache
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.AssemblyInfo.cs
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.csproj.CoreCompileInputs.cache
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.dll
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/refint/ManagerInventory.dll
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.pdb
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ManagerInventory.genruntimeconfig.cache
+/Users/alikhan/Projects/ManagerInventory/ManagerInventory/obj/Debug/net7.0/ref/ManagerInventory.dll
